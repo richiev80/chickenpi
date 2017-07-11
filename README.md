@@ -12,5 +12,25 @@ It is also "connected" to the [Cisco Spark](https://www.ciscospark.com/) platfor
 
 
 #### Credit
-Credit goes to Eric Escobar for the original idea, base electronics design, and base python code.  See here for more: http://www.quickanddirtytips.com/tech/gadgets/how-to-automate-your-home-chicken-door-edition
+Credit goes to Eric Escobar for the original idea.  See here for more: http://www.quickanddirtytips.com/tech/gadgets/how-to-automate-your-home-chicken-door-edition
+
+### Components
+
+Following is a list of components used for ChickenPi:
+
+- 1 x Raspberry Pi Zero W
+- 1 x Raspberry Pi NoIR Camera
+- 1 x Arduino Uno R3
+- 1 x 12V DC 10RPM Reversible High Torque Turbo Worm Geared Motor (JGY370)
+- 1 x L298N Dual H Bridge DC Stepper Motor Driver Controller Board Module
+- 2 x OH137 Hall Effect Unipolar Sensor
+- 1 x AM2303 Temperature & Humidity Sensor
+- 1 x DS18B20 Waterproof Temperature Sensor
+- 1 x Light Dependent Resistor
+- 1 x 48 LED IR Light
+- 1 x 1uF Capacitor
+- 2 x 10k Ohm Resistor
+- 2 x 4.7k Ohm Resistor
+
+As well as the above there was also some breadboards, jumper cables, and screw terminal blocks used.
 
