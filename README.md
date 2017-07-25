@@ -24,7 +24,7 @@ Following is a list of components used for ChickenPi:
 - 1 x 12V DC 10RPM Reversible High Torque Turbo Worm Geared Motor (JGY370)
 - 1 x L298N Dual H Bridge DC Stepper Motor Driver Controller Board Module
 - 2 x OH137 Hall Effect Unipolar Sensor
-- 1 x AM2303 Temperature & Humidity Sensor
+- 1 x AM2302 Temperature & Humidity Sensor
 - 1 x DS18B20 Waterproof Temperature Sensor
 - 1 x Light Dependent Resistor
 - 1 x 48 LED IR Light
