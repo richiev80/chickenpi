@@ -179,6 +179,10 @@ Some variables in the script need to be modified.
 **LOGGING** - Yes/No to enable/disable logging
 
 
+### Arduino Sketch
+
+The arduino sketch is also provided.
+
 ### References
 
 The following are reference URLs:
