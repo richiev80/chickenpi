@@ -37,6 +37,8 @@ As well as the above there was also some breadboards, jumper cables, and screw t
 
 _This section is not yet complete and requires validation_
 
+![Hardware Design](ChickenPi-Board-Rev1_bb.jpg)
+
 #### GPIO Pins
 
 The Raspberry Pi Zero W has a 40-pin header that offers 17 GPIO pins, which are used by most of the sensors/components for ChickenPi.
